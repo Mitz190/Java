@@ -26,5 +26,8 @@ public static void main(String[] args) {
 	
 	b= new Axis();
 	System.out.println(b.getRateOfInterest());
+	
+	b= new BOI();
+	System.out.println(b.getRateOfInterest());
 }
 }
